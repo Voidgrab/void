@@ -1,4 +1,0 @@
-Update Log (9/26/20)
-- Added second counter to menu button
-- Updated Anti-Ban
-- Made Sky Platform further away from spawn
